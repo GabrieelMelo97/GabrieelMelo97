@@ -16,7 +16,6 @@ Fique à vontade para explorar meus repositórios e contribuir com ideias ou mel
 ### Principais Tecnologias e Ferramentas:
 
 - Python 🐍
-- JavaScript 💻
 - Flask, FastAPI 🌐
 - Pandas, NumPy, Scikit-Learn 📊
 - TensorFlow, PyTorch 🚀
