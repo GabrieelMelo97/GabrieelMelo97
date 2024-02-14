@@ -4,7 +4,7 @@ Olá, sou Gabriel Melo, um entusiasta de engenharia e data science. 💻 Meu obj
 
 ## O que você encontrará aqui:
 
-- Projetos de engenharia de software, desde aplicações web até scripts de automação.
+- Projetos de engenharia de engenharia de dados, desde aplicações web até scripts de automação.
 - Notebooks e implementações práticas de conceitos de data science.
 - Utilização do Apache Airflow para orquestração de fluxos de dados.
 - Análises exploratórias utilizando PySpark para processamento distribuído.
